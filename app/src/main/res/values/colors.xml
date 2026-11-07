@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="qizil">#970637</color>
+    <color name="sariq">#FFEB3B</color>
+    <color name="yashil">#26832A</color>
+    <color name="kok">#273893</color>
+    <color name="siyohrang">#542C9A</color>
+</resources>
